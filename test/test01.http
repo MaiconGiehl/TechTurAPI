@@ -1,0 +1,11 @@
+GET http://localhost:8000/customer/01
+Content-Type: application/json
+
+GET http://localhost:8000/bus/02
+Content-Type: application/json
+
+GET http://localhost:8000/ticket/03
+Content-Type: application/json
+
+GET http://localhost:8000/route/04
+Content-Type: application/json
